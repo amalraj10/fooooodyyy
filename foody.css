@@ -46,8 +46,8 @@ ul {
     margin: 0;
     /* padding: 0; */
     overflow: hidden;
-    padding-left: 940PX;
-    background-color:rgb(251, 193, 4);
+    padding-left: 1019PX;
+    
      /* background-image: linear-gradient(to bottom ,rgb(253, 253, 23),rgb(0, 0, 0)); */
     float: right;
     /* font-family: "Heebo",sans-serif; */
@@ -678,17 +678,21 @@ margin-top: -165px;
 }
 .lokkk{
     color:rgb(251, 193, 4) ;
+    margin-right: 80px;
 
 }
 .rokkk{
     color:rgb(251, 193, 4) ;
+    margin-right: 80px;
 
 }
 .cokkk{
     color:rgb(251, 193, 4) ;
+    margin-right: 80px;
 
 }
 .lcokkk{
         color:rgb(251, 193, 4) ;
+        margin-right: 80px;
 
 }
